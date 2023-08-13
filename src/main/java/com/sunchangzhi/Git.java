@@ -6,5 +6,6 @@ public class Git {
         System.out.println("Hello, Git second!");
         System.out.println("Hot fix branch code");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
